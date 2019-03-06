@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="padding_window">16dp</dimen>
+    <dimen name="txt_header">24sp</dimen>
+    <dimen name="txt_title">20sp</dimen>
+    <dimen name="txt_subheader">16sp</dimen>
+    <dimen name="txt_body">14sp</dimen>
+</resources>
